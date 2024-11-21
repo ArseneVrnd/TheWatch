@@ -1,0 +1,25 @@
+2024-11-15 11:09:03,889 - scraper - INFO - GrailedScraper initialized successfully
+2024-11-15 11:09:13,259 - scraper - ERROR - Request error: 'GrailedScraper' object has no attribute 'headers'
+2024-11-15 11:09:14,267 - scraper - ERROR - Request error: 'GrailedScraper' object has no attribute 'headers'
+2024-11-15 11:09:16,264 - scraper - ERROR - Request error: 'GrailedScraper' object has no attribute 'headers'
+2024-11-15 11:10:58,614 - scraper - INFO - GrailedScraper initialized successfully
+2024-11-15 11:11:05,992 - scraper - INFO - Starting search for 'New Balance'
+2024-11-15 11:11:06,027 - scraper - ERROR - Request error: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:11:07,044 - scraper - ERROR - Request error: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:11:09,049 - scraper - ERROR - Request error: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:11:09,049 - scraper - ERROR - Error during search: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:11:09,050 - scraper - INFO - Found 0 sales
+2024-11-15 11:15:21,990 - scraper - INFO - GrailedScraper initialized successfully
+2024-11-15 11:15:43,993 - scraper - INFO - Starting search for 'New Balance'
+2024-11-15 11:15:43,994 - scraper - ERROR - Request error: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:15:45,008 - scraper - ERROR - Request error: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:15:47,017 - scraper - ERROR - Request error: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:15:47,018 - scraper - ERROR - Error during search: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:15:47,018 - scraper - INFO - Found 0 sales
+2024-11-15 11:16:55,839 - scraper - INFO - Starting search for 'nb'
+2024-11-15 11:16:55,840 - scraper - ERROR - Request error: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:16:56,842 - scraper - ERROR - Request error: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:16:58,848 - scraper - ERROR - Request error: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:16:58,849 - scraper - ERROR - Error during search: Invalid variable type: value should be str, int or float, got None of type <class 'NoneType'>
+2024-11-15 11:16:58,849 - scraper - INFO - Found 0 sales
+2024-11-15 11:17:42,270 - scraper - INFO - GrailedScraper initialized successfully
